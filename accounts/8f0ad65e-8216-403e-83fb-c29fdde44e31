@@ -3,16 +3,7 @@
   "fullName": "Leanne Graham",
   "username": "Bret",
   "accountNumber": "3044444444",
-  "address": {
-    "street": "Kulas Light",
-    "suite": "Apt. 556",
-    "city": "New York",
-    "zipcode": "92998-3874",
-    "geo": {
-      "lat": "-37.3159",
-      "lng": "81.1496"
-    }
-  },
+  "address": "Kulas Light, Apt. 556, New York",
   "phone": "1-770-736-8031 x56442",
   "website": "hildegard.org",
   "company": "Mulesoft",
